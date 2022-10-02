@@ -275,7 +275,13 @@ module.exports = {
 
 **`unknown at rule @tailwindcss(unknownatrules) : Tailwind`**
 
+> before
+
 <img width="414" alt="스크린샷 2022-10-03 오전 4 48 50" src="https://user-images.githubusercontent.com/85790271/193473453-a7d168a5-ef63-4713-bd1d-14e62a6d056f.png">
+
+> after
+
+<img width="519" alt="image" src="https://user-images.githubusercontent.com/85790271/193473602-74d697a1-1f20-4b08-a4f0-1ef4187f6b4d.png">
 
 
 ```json

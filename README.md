@@ -275,6 +275,9 @@ module.exports = {
 
 **`unknown at rule @tailwindcss(unknownatrules) : Tailwind`**
 
+<img width="414" alt="스크린샷 2022-10-03 오전 4 48 50" src="https://user-images.githubusercontent.com/85790271/193473453-a7d168a5-ef63-4713-bd1d-14e62a6d056f.png">
+
+
 ```json
 // settings.json
 "css.customData": [".vscode/tailwind.json"],

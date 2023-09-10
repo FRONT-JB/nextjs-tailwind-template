@@ -2,7 +2,7 @@
 
 **`Stack`**
 
-- [ ] YarnBerry (Zero-Install)
+- [x] YarnBerry (Zero-Install)
 - [x] NextJS
 - [x] Typescript
 - [x] Eslint
@@ -282,7 +282,6 @@ module.exports = {
 > after
 
 <img width="519" alt="image" src="https://user-images.githubusercontent.com/85790271/193473602-74d697a1-1f20-4b08-a4f0-1ef4187f6b4d.png">
-
 
 ```json
 // settings.json

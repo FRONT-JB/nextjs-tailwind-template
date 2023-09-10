@@ -50,6 +50,16 @@
           "url": "https://tailwindcss.com/docs/functions-and-directives#variants"
         }
       ]
+    },
+    {
+      "name": "@apply",
+      "description": "If you’re using a traditional templating language like ERB or Twig, creating a template partial for something as small as a button can feel like overkill compared to a simple CSS class like btn.",
+      "references": [
+        {
+          "name": "Tailwind Documentation",
+          "url": "https://tailwindcss.com/docs/reusing-styles#extracting-classes-with-apply"
+        }
+      ]
     }
   ]
 }
